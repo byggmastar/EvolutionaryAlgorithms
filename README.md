@@ -1,2 +1,2 @@
 # EvolutionaryAlgorithms
-Evolutionary algorithms in python
+Me learning python and playing with evolutionary algorithms.
